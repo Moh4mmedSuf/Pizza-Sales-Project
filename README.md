@@ -1,8 +1,8 @@
 # Pizza-Sales-Project
 
 A client Requested an intractive Dashboard of his Pizza Business (you can check the requirements in the file Attached).
-and I made sure the result were correct through a SQL code in MySQL.
-Most of The project were done In Power Bi where I used DAX to Prepare The Data.
+and I made sure the results were correct through a SQL code in MySQL.
+Most of The project were done In Power BI where I used DAX to Prepare The Data.
 
 
 Here's a snap of the Final Dashboard.
